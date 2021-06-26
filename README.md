@@ -2,5 +2,5 @@
 Run 
 ```
 rm README.md
- unzip \*.zip
+unzip \*.zip
  ```
