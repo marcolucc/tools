@@ -1,1 +1,2 @@
 # tools
+Run unzip \*.zip
